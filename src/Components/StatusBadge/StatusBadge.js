@@ -1,4 +1,3 @@
-// src/components/StatusBadge/StatusBadge.js
 import React from 'react';
 import classNames from 'classnames';
 import './StatusBadge.css';

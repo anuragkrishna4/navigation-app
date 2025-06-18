@@ -1,4 +1,3 @@
-// src/components/Navbar/Navbar.js
 import React, { useState } from 'react';
 import NavItem from './NavItem';
 import './Navbar.css';
