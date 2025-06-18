@@ -1,0 +1,18 @@
+/* src/components/Layout/Layout.css */
+.layout {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+.header,
+.footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.content {
+  padding: 20px;
+}
